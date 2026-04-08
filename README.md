@@ -1,1 +1,1 @@
-Simple terminal HTTP client in C# using IHttpClientFactory
+Simple console HTTP client in C#
